@@ -1,0 +1,57 @@
+body{
+    
+    background-image: url('lazanjica.jpg');
+    
+}
+
+
+
+.jedan{
+background-color: #f33131;
+opacity: 0.9;
+margin: 20px ;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ text-align: center;
+ padding: 0.7em;
+
+
+}
+
+
+
+.dva {
+
+    margin:  20px;
+    background-color: #faf794;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0.3em;
+}
+
+
+.tri{
+display: flex;
+align-items: flex-start;
+
+
+    background-color: #f33131;
+    opacity: 0.9;
+    margin:  20px 500px 20px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding: 0.5em;
+
+
+}
+
+img {
+    display: flex;
+    align-items: flex-end;
+    
+
+padding: 50px;
+  width: 350px;
+  height: 300px;
+  
+
+
+
+}
