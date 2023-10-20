@@ -1,34 +1,36 @@
 body{
     
     background-image: url('lazanjica.jpg');
+    background-repeat: space;
+   background-size: cover;
     
 }
 
 
 
-.jedan{
+.naslov{
 background-color: #f33131;
 opacity: 0.9;
 margin: 20px ;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
  text-align: center;
- padding: 0.7em;
+ padding: 24px;
 
 
 }
 
 
 
-.dva {
+.opis {
 
     margin:  20px;
     background-color: #faf794;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 0.3em;
+    padding: 16px ;
 }
 
 
-.tri{
+.sastojci{
 display: flex;
 align-items: flex-start;
 
@@ -37,7 +39,7 @@ align-items: flex-start;
     opacity: 0.9;
     margin:  20px 500px 20px 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-padding: 0.5em;
+padding: 16px;
 
 
 }
